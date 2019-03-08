@@ -1,0 +1,54 @@
+.textoVerde{
+	color:green;
+	font-weight: bold;
+}
+
+.textoRojo{
+	color:red;
+}
+
+
+.amarillo{
+	color:yellow;
+}
+
+.azul{
+	color:blue;
+}
+
+.naranja{
+	color:orange;
+}
+
+.verde{
+	color:green;
+}
+
+.img100{
+	width:100px;
+	height: 100px;
+}
+
+.divRojo{
+	background-color: red;
+	width: 100px;
+	height: 100px;
+}
+
+dd{
+	margin:0;
+	padding-top: 10px;
+}
+
+dt{
+	cursor:pointer;
+	font-size: 18px;
+	background-color:#e3e3e3;
+	border-bottom:1px solid #c5c5c5;
+	border-top:1px solid white;
+}
+
+h3{
+	cursor:pointer;
+}
+
